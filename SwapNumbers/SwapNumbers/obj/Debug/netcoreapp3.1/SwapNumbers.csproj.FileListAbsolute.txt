@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

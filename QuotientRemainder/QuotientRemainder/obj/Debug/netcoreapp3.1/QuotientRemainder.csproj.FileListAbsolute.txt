@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfo.cs
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.exe
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.deps.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.pdb
+C:\Users\naruto\Desktop\Bridgzlabs\Day5PracProb\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.genruntimeconfig.cache
