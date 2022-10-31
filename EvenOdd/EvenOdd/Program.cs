@@ -1,7 +1,4 @@
-﻿/**********************************************
-            alphabetacoder.com
-C# program to check if a number is even or odd 
-***********************************************/
+
 
 using System;
 
